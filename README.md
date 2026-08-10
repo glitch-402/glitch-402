@@ -1,4 +1,4 @@
-# GLITCH_402
+# GLITCH
 
 > Security Researcher · Programmer · Learner
 
