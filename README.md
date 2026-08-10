@@ -29,7 +29,6 @@ I enjoy learning how websites, software and AI systems work and experimenting wi
 
 ## 📫 Contact
 
-🌐 Website: https://glitch-402.netlify.app/
 
 𝕏 X: https://x.com/Glitch_402
 
