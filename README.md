@@ -40,6 +40,6 @@ I enjoy learning how websites, software and AI systems work and experimenting wi
 ```text
 [ SYSTEM ONLINE ]
 
-GLITCH_402
+GLITCH
 
 > keep learning.
