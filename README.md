@@ -33,6 +33,8 @@ I'm also interested in astronomy and psychology. I enjoy learning about how the 
 
 𝕏 X: https://x.com/Glitch_402
 
+Website: https://glitch-402.netlify.app/
+
 📧 Email: Glitch3.SeCU@proton.me
 
 ---
