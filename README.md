@@ -7,6 +7,7 @@
 I'm Glitch, a beginner security researcher and programmer.
 
 I enjoy learning how websites, software and AI systems work and experimenting with them in controlled environments.
+I'm also interested in astronomy and psychology. I enjoy learning about how the human brain works, how people think, and how the world around us is structured.
 
 ## 🛠️ Tech Stack
 
